@@ -41,7 +41,7 @@ MIDI Analyzer (Drag-and-Drop)
 2. The analyzed results are saved in the 'Analyzed' directory.
 
 ![image](https://github.com/DrayfieldR/MidiAnalyzer/assets/148846964/837f77fd-9f84-4cc8-b91e-6e2c314e9b0c)
-
+![image](https://github.com/DrayfieldR/MidiAnalyzer/assets/148846964/3811cfd2-c7af-46fd-8325-a7b3a6ab286e)
 ### Command-Line Interface (CLI)
 
 Convert a text file to MIDI:
