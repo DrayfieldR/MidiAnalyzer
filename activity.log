@@ -1,0 +1,7 @@
+2023-10-23 22:06:29,384 [INFO]: Analyzed directory: C:\Users\Nuc-8\Documents\Coding projects\Midi Analyzer
+2023-10-23 22:06:29,384 [INFO]: Output: C:\Users\Nuc-8\Documents\SeeInside\Scans\2023-10-d_22-06-29_C__Users_Nuc-8_Documents_Coding projects_Midi Analyzer_Midi Analyzer_contents.txt
+2023-10-23 22:38:39,776 [INFO]: Analyzed directory: C:\Users\Nuc-8\Documents\Coding projects\Midi Analyzer
+2023-10-23 22:38:39,776 [INFO]: Output: C:\Users\Nuc-8\Documents\SeeInside\Scans\2023-10-d_22-38-39_C__Users_Nuc-8_Documents_Coding projects_Midi Analyzer_Midi Analyzer_contents.txt
+2023-10-23 22:38:39,842 [ERROR]: Skipping file: C:\Users\Nuc-8\Documents\Coding projects\Midi Analyzer\Processed Midi\golden_lady\Acoustic Guitar.mid. Error: 'utf-8' codec can't decode byte 0xdc in position 13: invalid continuation byte
+2023-10-23 22:58:11,067 [INFO]: Analyzed directory: C:\Users\Nuc-8\Documents\Coding projects\Midi Analyzer
+2023-10-23 22:58:11,067 [INFO]: Output: C:\Users\Nuc-8\Documents\SeeInside\Scans\2023-10-d_22-58-11_C__Users_Nuc-8_Documents_Coding projects_Midi Analyzer_Midi Analyzer_contents.txt
